@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+
+      1. Tesla Clone APP 
+      * Highlights *
+      - Acheived 99% Similarity to Tesla Site.
+      - Redux store
+      - Styled Components
+      - React reveal
+      - Material Icons
+      - Animations.
+      
+![image](https://user-images.githubusercontent.com/18049731/146549232-954cb504-e957-4427-8aa0-42257a728fc4.png)
+      
 ## Available Scripts
 
 In the project directory, you can run:
