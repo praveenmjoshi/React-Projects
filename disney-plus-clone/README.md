@@ -1,5 +1,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+Disney Plus Homepage Clone APP 
+      * Highlights *
+      - Acheived 99% Similarity to Disney Site Home Page.
+      - Routing
+      - Image carousel 
+      - Redux store
+      - Styled Components
+      - React reveal
+      - Material Icons
+      - Animations.
+     
+![image](https://user-images.githubusercontent.com/18049731/147722758-d9f295f3-8cd0-4a03-910b-19908292289e.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
